@@ -1,2 +1,2 @@
-# start
-Prosta start
+# Start
+Изучаю язык программирования Python
